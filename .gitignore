@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+*.log
+*.csv
+*.json
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
